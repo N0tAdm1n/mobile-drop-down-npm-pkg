@@ -1,0 +1,19 @@
+{
+  "name": "@n0tadm1n/mobile-drop-down-menu",
+  "version": "1.0.0",
+  "description": "Drop down menu for mobile devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N0tAdm1n/mobile-drop-down-npm-pkg.git"
+  },
+  "author": "n0tadm1n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N0tAdm1n/mobile-drop-down-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/N0tAdm1n/mobile-drop-down-npm-pkg#readme"
+}
